@@ -8,7 +8,7 @@
 
 ### 3. run the following command in the terminal
 
-    > python3 main.py
+    > python3 analyzer.py
 
 #### Specifications of the application:
 
@@ -18,3 +18,5 @@
     4. Run the sort functions with generated list of integers
     5. Calculate and display the time it took to run the function
     6. Allow for multiple runs
+ 
+ ![screenshot](https://github.com/estrangedwriter/Runtime-Analyzer-DS-A/blob/main/runtime-analyzer.png)
